@@ -1,0 +1,20 @@
+﻿{
+  "name": "segundo-parcial-tlp2-fabian-acevedo",
+  "version": "1.0.0",
+  "description": "Sistema de Gestión de Cursos - Segundo Parcial TLP II",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Fabian Acevedo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "express-validator": "^7.2.0",
+    "mongoose": "^8.7.0"
+  }
+}
